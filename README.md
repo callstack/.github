@@ -12,9 +12,7 @@
 [![MIT License][license-badge]][license]
 [![PRs Welcome][prs-welcome-badge]][prs-welcome]
 [![Chat][chat-badge]][chat]
-<a href="https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=PROJECT_NAME&utm_term=readme">
-<img src="https://callstack.com/images/callstack-badge.png" alt="Sponsored by Callstack" height=20 />
-</a>
+[![Sponsored by Callstack][callstack-badge]][callstack]
 
 **IMPORTANT: replace all PROJECT_NAME and PROJECT_DISPLAY_NAME occurrences with appropriate, well, project name (in all relevant \*.md files) and then remove this message.**
 
@@ -50,3 +48,5 @@ PROJECT_DISPLAY_NAME is an open source project and will always remain free to us
 [prs-welcome]: http://makeapullrequest.com
 [chat-badge]: https://img.shields.io/discord/426714625279524876.svg?style=flat-square&colorB=758ED3
 [chat]: https://discord.gg/zwR2Cdh
+[callstack-badge]: https://callstack.com/images/callstack-badge.svg
+[callstack]: https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=PROJECT_NAME&utm_term=readme
