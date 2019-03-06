@@ -35,6 +35,10 @@ TBD
 
 Read the [contribution guidelines](/CONTRIBUTING.md) before contributing.
 
+## Made with ❤️ at Callstack
+
+PROJECT_DISPLAY_NAME is an open source project and will always remain free to use. If you think it's cool, please star it 🌟. [Callstack](https://callstack.com) is a group of React and React Native geeks, contact us at [hello@callstack.com](mailto:hello@callstack.com) if you need any help with these or just want to say hi!
+
 <!-- badges -->
 
 [build-badge]: https://img.shields.io/circleci/project/github/callstack/PROJECT_NAME/master.svg?style=flat-square
