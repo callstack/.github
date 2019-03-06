@@ -12,7 +12,6 @@
 [![MIT License][license-badge]][license]
 [![PRs Welcome][prs-welcome-badge]][prs-welcome]
 [![Chat][chat-badge]][chat]
-
 <a href="https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=PROJECT_NAME&utm_term=readme">
 <img src="https://callstack.com/images/callstack-badge.png" alt="Sponsored by Callstack" height=20 />
 </a>
