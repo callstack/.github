@@ -1,6 +1,6 @@
 ---
 name: 💬 Question
-about: You need help with PROJECT_DISPLAY_NAME.
+about: Choose if you need help.
 labels: 'question'
 ---
 

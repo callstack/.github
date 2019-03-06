@@ -1,6 +1,6 @@
 ---
 name: 🗣 Feature request
-about: Suggest an idea for PROJECT_DISPLAY_NAME.
+about: Suggest an idea.
 labels: 'feature request'
 ---
 

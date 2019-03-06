@@ -1,6 +1,6 @@
 ---
 name: 🐛 Report a bug
-about: Report a reproducible or regression bug in PROJECT_DISPLAY_NAME'
+about: Report a reproducible or regression bug.
 labels: 'bug report'
 ---
 
