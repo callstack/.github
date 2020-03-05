@@ -6,7 +6,7 @@ labels: 'bug report'
 
 ## Environment
 
-<!-- All necessary envrionmental info that will help triage this -->
+<!-- All necessary environmental info that will help triage this -->
 
 ## Description
 
