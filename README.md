@@ -47,7 +47,7 @@ PROJECT_DISPLAY_NAME is an open source project and will always remain free to us
 [prs-welcome-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs-welcome]: http://makeapullrequest.com
 [chat-badge]: https://img.shields.io/discord/426714625279524876.svg?style=flat-square&colorB=758ED3
-[chat]: https://discord.gg/zwR2Cdh
+[chat]: https://discord.gg/Q4yr2rTWYF
 [callstack-badge]: https://callstack.com/images/callstack-badge.svg
 [callstack]: https://callstack.com/open-source/?utm_source=github.com&utm_medium=referral&utm_campaign=PROJECT_NAME&utm_term=readme-badge
 [callstack-readme-with-love]: https://callstack.com/?utm_source=github.com&utm_medium=referral&utm_campaign=PROJECT_NAME&utm_term=readme-with-love
